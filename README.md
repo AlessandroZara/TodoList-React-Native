@@ -26,7 +26,11 @@ By doing so you will install it globally and you can always use it (Don't worry 
 To understand how EXPO works, visit the site: - [https://docs.expo.dev/]
 
 
+
+
 # `TRADUZIONE IN ITALIANO `
+
+
 
 # Progetto React Native Todo List
 Questo è un progetto di una TodoList fatto il con il framework REACT NATIVE.
