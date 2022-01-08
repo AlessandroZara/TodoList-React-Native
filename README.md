@@ -1,7 +1,7 @@
 # React Native Todo List project
 
 This is a TodoList project done with the REACT NATIVE framework. 
-To be able to use it you have to Download the project in a folder and install the modules with:
+To be able to use it you have to Download the project in a folder and install the modules (Node Modules) with:
 ```
 npm install 
 ```
@@ -30,7 +30,7 @@ To understand how EXPO works, visit the site: - [https://docs.expo.dev/]
 
 # Progetto React Native Todo List
 Questo è un progetto di una TodoList fatto il con il framework REACT NATIVE.
-Per poterlo utilizzare dovete Scaricare il proggetto in una cartella e installare i moduli con
+Per poterlo utilizzare dovete Scaricare il proggetto in una cartella e installare i Moduli (Node Modules) con
 ```
 npm install 
 ```
